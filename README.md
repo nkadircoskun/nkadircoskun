@@ -1,36 +1,40 @@
 # Hi, I'm Kadir
 
-Restaurant operations professional based in Vienna.
+Restaurant operations professional based in Vienna, currently building structured operational systems focused on restaurant environments, reporting workflows and operational intelligence.
 
-Currently learning Cyber Security and Data Analytics while building structured, desktop-based operational systems for restaurant environments.
+I am currently developing GASTRORIX — a desktop-based operational system designed around real-world restaurant operations, process structure, reporting clarity and operational control.
+
+Alongside my operational background, I am building a stronger foundation in Cyber Security and Data Analytics while exploring system design, documentation workflows and command-center style interfaces.
 
 ---
 
-## About Me
+# About Me
 
 * Based in Vienna
 * Background in restaurant and service operations
-* Interested in Cyber Security
-* Interested in Data Analytics
 * Focused on operational systems and process design
-* Interested in command-center style UI/UX
-* Strong interest in GitHub-based project documentation
+* Interested in operational intelligence and structured reporting
+* Building desktop-based management concepts
+* Strong interest in command-center style UI/UX
+* Focused on long-term GitHub-based project documentation
 * Music and guitar enthusiast
 
 ---
 
-## Current Focus
+# Current Focus
 
-* Learning Cyber Security
-* Learning Data Analytics
-* Building operational systems for restaurants
-* Improving workflows and structured reporting
-* Creating serious and functional UI concepts
-* Documenting projects from start to finish
+* Building GASTRORIX
+* Developing structured operational systems
+* Improving reporting workflows and operational visibility
+* Exploring Cyber Security fundamentals
+* Expanding Data Analytics knowledge
+* Designing serious and functional desktop interfaces
+* Creating sustainable documentation structures
+* Organizing long-term project workflows
 
 ---
 
-## Interests
+# Areas of Interest
 
 * Restaurant Operations
 * Operational Intelligence
@@ -38,37 +42,40 @@ Currently learning Cyber Security and Data Analytics while building structured, 
 * Data Analytics
 * Process Design
 * UI/UX
-* GitHub Documentation
+* Documentation Systems
 * Desktop Applications
-* Music
-* Guitar
+* System Architecture
 
 ---
 
-## Tools & Technologies
+# Tools & Technologies
 
 * GitHub
 * React
 * TypeScript
 * Electron
 * SQLite
-* Tailwind CSS
 * Node.js
+* Tailwind CSS
 
 ---
 
-## Philosophy
+# Philosophy
 
 I prefer structured systems, serious design, clean documentation and long-term project memory.
 
-I believe software should solve real operational problems, not just look visually impressive.
+I believe software should solve real operational problems — not only look visually impressive.
+
+My main interest is building systems that improve operational clarity, reporting quality and workflow control in real business environments.
 
 ---
 
-## Currently Working On
+# Currently Working On
 
-* Desktop-based operational systems
-* Project documentation workflows
-* Better reporting structures
-* Stronger operational control concepts
+* GASTRORIX operational system architecture
+* Desktop-based operational interfaces
+* Reporting and workflow structures
 * Long-term GitHub project organization
+* Operational control concepts
+* Structured project documentation
+
