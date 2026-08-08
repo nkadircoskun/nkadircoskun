@@ -1,6 +1,7 @@
 # Kadir Coşkun
 
 **I build the software I needed on the restaurant floor.**
+
 Vienna, Austria.
 
 Twenty years in gastronomy — fifteen as Chef de Rang, the last five as Restaurant
@@ -87,6 +88,7 @@ restaurants by people who have never closed one.
 ## Certificates
 
 **[Google Data Analytics Professional Certificate](https://coursera.org/verify/professional-cert/BXVW3FETPH0C)** — Coursera
+
 Spreadsheets, SQL, R, and how to present a number someone will act on.
 
 ---
